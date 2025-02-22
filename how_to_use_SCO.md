@@ -7,29 +7,27 @@ Payment & Finishing Up – Paying, using coupons, and exiting.
 Tips & Etiquette – Best practices for a smooth experience.
 Getting Help – When to call an employee for assistance.
 
-# Table of Contents – How to Use Self-Checkout
+# Table of Contents – How to use self-checkout
 
-## 1. Getting Started  
-- What is Self-Checkout?  
-- Benefits of Using Self-Checkout  
-- Preparing Your Items & Payment  
+## 1. Getting started  
+- What is self-checkout?   
 
-## 2. Scanning & Bagging  
-- How to Scan Barcodes  
-- Weighing Produce & Bulk Items  
-- Placing Items in the Bagging Area  
+## 2. Scanning & bagging  
+- How to scan barcodes  
+- Weighing produce & bulk items  
+- Placing items in the bagging area  
 
 ## 3. Handling Issues  
-- Item Not Scanning? Try This!  
-- Price Doesn’t Match? What to Do  
-- Buying Age-Restricted Items? Wait for Assistance  
+- Item not scanning? Try yhis!  
+- Price doesn’t match? What to do?  
+- Buying age-restricted items? Wait for assistance  
 
-## 4. Payment & Checkout  
-- Selecting a Payment Method  
-- Using Coupons & Store Discounts  
-- Collecting Your Receipt & Packing Your Bags  
+## 4. Payment & checkout  
+- Selecting a payment method  
+- Using coupons & store discounts  
+- Collecting your receipt & packing your bags  
 
-## 5. Tips & Assistance  
-- Avoiding Common Mistakes  
-- Self-Checkout Etiquette  
-- When to Ask for Help  
+## 5. Tips & assistance  
+- Avoiding common mistakes  
+- Self-checkout etiquette  
+- When to ask for help  
