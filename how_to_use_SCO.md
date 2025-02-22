@@ -9,8 +9,19 @@ Getting Help – When to call an employee for assistance.
 
 # How to Use Self-Checkout: A Complete User Guide - European Edition
 
-## Quick Navigation
+## Quick Start Guide
+⏱️ Estimated time: 3-5 minutes for up to 15 items
+
+1. Select language
+2. Scan loyalty card (optional)
+3. Begin scanning items
+4. Pay and collect receipt
+
+## Table of Contents
+- [Quick Terms & Language Support](#quick-terms--language-support)
+- [Country-Specific Variations](#country-specific-variations)
 - [1. Introduction](#1-introduction)
+  - [Accessibility Features](#accessibility-features)
 - [2. Getting Started](#2-getting-started)
   - [System Activation](#system-activation)
   - [Preparing Your Bags](#preparing-your-bags)
@@ -20,116 +31,255 @@ Getting Help – When to call an employee for assistance.
 - [4. Special Situations](#4-special-situations)
   - [Age-Restricted Items](#age-restricted-items)
   - [Items Without Barcodes](#items-without-barcodes)
-- [5. Payment](#5-payment)
-  - [Payment Options](#payment-options)
-  - [Payment Process](#payment-process)
+- [5. Payment Process](#5-payment)
 - [6. Troubleshooting](#6-troubleshooting)
-  - [Common Issues](#common-issues)
-  - [Solutions](#solutions)
 - [7. Tips and Best Practices](#7-tips-and-best-practices)
-  - [Speed and Efficiency](#speed-and-efficiency)
-  - [Safety and Security](#safety-and-security)
+- [Error Codes Reference](#error-codes-reference)
+- [Accessibility Guide](#accessibility-guide)
+
+## Quick Terms & Language Support
+
+### Common Terms
+- PLU: Price Look-Up code (for produce and bulk items)
+- EAN: European Article Number (barcode standard)
+- VAT: Value Added Tax
+- PIN: Personal Identification Number
+- SEPA: Single Euro Payments Area
+
+### Available Languages
+
+| Language | Code | Voice Guidance |
+|----------|------|----------------|
+| English | EN | ✓ |
+| Français | FR | ✓ |
+| Deutsch | DE | ✓ |
+| Italiano | IT | ✓ |
+| Español | ES | ✓ |
+| Nederlands | NL | ✓ |
+| Polski | PL | ✓ |
+| Svenska | SV | Limited |
+
+## Country-Specific Variations
+
+| Country | Common Payment Methods | Bag Policy | Age Restrictions | Common Store Chains |
+|---------|----------------------|------------|------------------|-------------------|
+| Germany | EC Card, Girocard, Cash | €0.10-0.50 per bag | 16+ energy drinks, 18+ alcohol | REWE, Lidl, Aldi |
+| France | Carte Bancaire, Cash | €0.15-0.50 per bag | 18+ alcohol | Carrefour, Auchan |
+| UK | Chip & PIN, Contactless | £0.20-0.30 per bag | 18+ alcohol, painkillers | Tesco, Sainsbury's |
+| Italy | PagoBANCOMAT, Cash | €0.10-0.30 per bag | 18+ alcohol | Conad, Esselunga |
+| Spain | Tarjeta, Cash | €0.05-0.20 per bag | 18+ alcohol | Mercadona, Carrefour |
 
 ## 1. Introduction
-Self-checkout systems (also known as self-service checkouts) are widely used across European retailers, from major chains like Carrefour, Tesco, and Lidl to local supermarkets. These systems reduce queue times and provide a convenient shopping experience. This guide will help you navigate the self-checkout process according to European retail standards and practices.
+⏱️ Average shopping time: 10-15 minutes
+
+Self-checkout systems (also known as self-service checkouts) are widely used across European retailers. This guide will help you navigate the self-checkout process according to European retail standards and practices.
+
+> **Important**: Always keep your receipt until leaving the store, as random checks are common in European retailers.
+
+### Accessibility Features
+- Audio guidance (press help button twice)
+- Adjustable screen height
+- Large text option
+- High contrast display
+- Screen reader compatibility
+- Extended reach scanners available
 
 ## 2. Getting Started
+⏱️ Setup time: 30-60 seconds
+
 ### System Activation
-- Select your preferred language from available EU languages
-- Choose between receipt options (paper, digital, or both) in accordance with EU consumer rights
-- Place your shopping basket or trolley in the designated area
-- Note the maximum number of items allowed (typically 10-15 items in express checkouts)
+
+**Step 1: Language Selection**
+- Locate the language icons on the welcome screen
+- Tap your preferred language
+- Confirm selection
+
+> **Note**: The system remembers your language choice for the entire transaction
+
+**Step 2: Loyalty Card (Optional)**
+- Scan loyalty card barcode
+- Or enter loyalty number manually
+- Wait for confirmation beep
 
 ### Preparing Your Bags
-- Select between purchasing bags (following local pricing for plastic bags under EU regulations) or using your own
-- If using your own bags, place them in the bagging area for weight calibration
-- Note that some stores require bag purchase verification before proceeding
-- Consider whether you need insulated bags for frozen items (common in European stores)
+
+**Step 1: Bag Selection**
+- Choose between:
+  - Store bags (subject to local pricing)
+  - Personal reusable bags
+  - No bags (small purchases)
+
+**Step 2: Bag Setup**
+- Place bags in designated area
+- Wait for weight calibration
+- Follow on-screen prompts
+
+> **Important**: Some stores require bag purchase verification before proceeding
 
 ## 3. Scanning Items
+⏱️ Average time per item: 3-5 seconds
+
 ### Standard Items
-- Hold items with European barcodes (EAN-13) to the scanner
-- Note that some items may have security tags that need deactivation
-- Follow the screen's guidance for proper item placement
-- Pay attention to weight verification systems, which may be more sensitive in European models
-- Handle deposit-return scheme items separately (common for bottles and cans in many EU countries)
+
+**Step 1: Barcode Scanning**
+- Hold item with barcode facing scanner
+- Wait for confirmation beep
+- Place item in bagging area immediately
+
+> **Tip**: Look for the red scanning light and align barcode with it
+
+**Step 2: Weight Verification**
+- Wait for weight confirmation
+- Follow on-screen prompts if there's an issue
+- Continue with next item
 
 ### Produce and Bulk Items
-- Select from common European fruit and vegetable varieties
-- Use PLU codes or image recognition systems
-- Weigh items using metric measurements (kilograms/grams)
-- Select organic ("bio") products when applicable
-- Consider seasonal produce pricing variations
-- Note country of origin labeling requirements
+⏱️ Average time: 15-30 seconds per item
+
+**Step 1: Item Selection**
+- Press 'Produce' or 'Bulk Items' button
+- Search by name or scroll through categories
+- Select specific item
+
+**Step 2: Weighing Process**
+- Place item on scale
+- Verify weight and price
+- Confirm selection
+- Place item in bagging area
 
 ## 4. Special Situations
+
 ### Age-Restricted Items
-- Be prepared to show proper EU/EEA identification for age verification
-- Understand local age restrictions (which vary by country)
-- Note that some items may require staff intervention regardless of age verification
-- Be aware of time restrictions for alcohol sales (varies by country)
+⏱️ Additional time: 1-2 minutes for verification
+
+**Common Age-Restricted Items**
+- Alcohol
+- Tobacco
+- Energy drinks (16+ in some countries)
+- Certain medications
+- Sharp objects
+
+**Verification Process**
+1. Scan item normally
+2. Wait for staff member
+3. Present valid ID
+4. Wait for approval
 
 ### Items Without Barcodes
-- Handle items with variable weight pricing
-- Process items with promotional offers or loyalty discounts
-- Deal with reduced price/yellow-label items
-- Process bakery items with specific European codes
-- Handle fresh deli items with store-specific codes
+⏱️ Additional time: 30-60 seconds
+
+**Step 1: Manual Entry**
+- Select 'No Barcode' option
+- Search for item by name
+- Enter quantity if needed
+
+**Step 2: Price Verification**
+- Check displayed price
+- Confirm amount
+- Place item in bagging area
 
 ## 5. Payment
+⏱️ Average time: 1-2 minutes
+
 ### Payment Options
-- Contactless payments (standard across EU)
-- Chip and PIN cards (primary method in Europe)
-- Mobile payments (various European providers)
-- Local payment systems (iDEAL, Carte Bancaire, etc.)
-- Cash in local currency
-- Store loyalty cards and vouchers
-- Digital payment apps specific to each country
+
+**Electronic Payments**
+- Contactless (limits vary by country)
+- Chip and PIN
+- Mobile payments (Apple Pay, Google Pay)
+- Country-specific systems
+
+**Other Methods**
+- Cash (where available)
+- Store gift cards
+- Loyalty points
+- Vouchers
 
 ### Payment Process
-- Select payment method
-- Note the contactless payment limits (varies by country)
-- Enter PIN when required
-- Process loyalty points or rewards
-- Handle VAT receipts if needed
-- Select digital receipt options where available
+
+**Step 1: Payment Initiation**
+1. Select 'Pay Now'
+2. Choose payment method
+3. Follow on-screen instructions
+
+**Step 2: Completion**
+1. Wait for confirmation
+2. Collect receipt
+3. Take all items
+4. Check for forgotten items
 
 ## 6. Troubleshooting
-### Common Issues
-- Weight discrepancies with loose items
-- Loyalty card recognition problems
-- Payment terminal connectivity issues
-- Language selection errors
-- Promotional price discrepancies
-- Deposit return voucher processing
 
-### Solutions
-- Use the help button with appropriate language selection
-- Understand common error messages in multiple languages
-- Know when to call for assistance
-- Handle receipt printer issues
-- Process transaction cancellations
-- Deal with card reading errors
+### Common Issues and Solutions
+
+| Issue | Solution |
+|-------|----------|
+| Weight error | Remove and replace item |
+| Barcode not scanning | Try manual entry |
+| Payment declined | Check card and try again |
+| Printer error | Call staff for receipt |
+
+### Error Codes Reference
+
+| Code | Display Message | Meaning | Solution |
+|------|----------------|---------|----------|
+| E01 | "Unexpected Item" | Weight mismatch | Remove last item, rescan |
+| E02 | "Invalid Barcode" | Unreadable/damaged code | Try manual entry or call staff |
+| E03 | "Age Verification" | Restricted item | Wait for staff check |
+| E04 | "Payment Error" | Transaction issue | Try again or different method |
+| E05 | "Receipt Error" | Printer problem | Call staff for assistance |
 
 ## 7. Tips and Best Practices
+
 ### Speed and Efficiency
-- Organize items by weight and category
-- Group items with deposit returns together
-- Keep loyalty cards readily accessible
-- Have payment method prepared
-- Understand local bagging practices
-- Know store-specific procedures
+- Group similar items together
+- Have payment method ready
+- Keep loyalty card accessible
+- Know your PLU codes for common produce
 
 ### Safety and Security
-- Protect PIN entry
-- Be aware of card skimming precautions
-- Keep personal space at appropriate European social distances
-- Maintain queue etiquette
-- Handle security tag removal properly
-- Keep proof of payment until leaving store
-- Understand CCTV policies under GDPR
+- Keep personal belongings secure
+- Shield PIN entry
+- Be aware of surroundings
+- Keep receipt until exit
+
+### Common PLU Codes
+
+| Code | Item | Unit |
+|------|------|------|
+| 4011 | Bananas | kg |
+| 4065 | Green Peppers | kg |
+| 4073 | Apples | kg |
+| 4082 | Tomatoes | kg |
+
+## Accessibility Guide
+
+### Visual Impairments
+- Activate audio guidance: Double press help button
+- Enable high contrast: Look for eye icon
+- Increase text size: Use A+ button
+- Voice commands available in selected stores
+
+### Mobility Assistance
+- Request mobile scanning device
+- Ask for seated checkout option
+- Use extended reach scanner
+- Mobile payment terminal available
+
+### Hearing Impairments
+- Visual confirmation for all actions
+- Vibration feedback available
+- Clear error messages on screen
+- Staff trained in basic sign language
 
 ---
+
+> **Final Tips**:
+> - Keep loyalty card ready
+> - Group similar items together
+> - Have payment method prepared
+> - Remember to take receipt
+
 For additional assistance, please don't hesitate to ask store staff for help in your preferred language.
 
-Note: Specific features and procedures may vary by country and retailer within Europe.
+Note: Features and procedures may vary by country and retailer within Europe.
