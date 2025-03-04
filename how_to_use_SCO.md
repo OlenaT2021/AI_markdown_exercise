@@ -1,6 +1,7 @@
 # How to Use Self-Checkout: A Complete User Guide - European Edition
 
 ## Quick Start Guide
+
 ⏱️ Estimated time: 3-5 minutes for up to 15 items
 
 1. Select language
@@ -9,28 +10,44 @@
 4. Pay and collect receipt
 
 ## Table of Contents
-- [Quick Terms & Language Support](#quick-terms--language-support)
-- [Country-Specific Variations](#country-specific-variations)
-- [1. Introduction](#1-introduction)
-  - [Accessibility Features](#accessibility-features)
-- [2. Getting Started](#2-getting-started)
-  - [System Activation](#system-activation)
-  - [Preparing Your Bags](#preparing-your-bags)
-- [3. Scanning Items](#3-scanning-items)
-  - [Standard Items](#standard-items)
-  - [Produce and Bulk Items](#produce-and-bulk-items)
-- [4. Special Situations](#4-special-situations)
-  - [Age-Restricted Items](#age-restricted-items)
-  - [Items Without Barcodes](#items-without-barcodes)
-- [5. Payment Process](#5-payment)
-- [6. Troubleshooting](#6-troubleshooting)
-- [7. Tips and Best Practices](#7-tips-and-best-practices)
-- [Error Codes Reference](#error-codes-reference)
-- [Accessibility Guide](#accessibility-guide)
+
+- [How to Use Self-Checkout: A Complete User Guide - European Edition](#how-to-use-self-checkout-a-complete-user-guide---european-edition)
+  - [Quick Start Guide](#quick-start-guide)
+  - [Table of Contents](#table-of-contents)
+  - [Quick Terms \& Language Support](#quick-terms--language-support)
+    - [Common Terms](#common-terms)
+    - [Available Languages](#available-languages)
+  - [Country-Specific Variations](#country-specific-variations)
+  - [1. Introduction](#1-introduction)
+    - [Accessibility Features](#accessibility-features)
+  - [2. Getting Started](#2-getting-started)
+    - [System Activation](#system-activation)
+    - [Preparing Your Bags](#preparing-your-bags)
+  - [3. Scanning Items](#3-scanning-items)
+    - [Standard Items](#standard-items)
+    - [Produce and Bulk Items](#produce-and-bulk-items)
+  - [4. Special Situations](#4-special-situations)
+    - [Age-Restricted Items](#age-restricted-items)
+    - [Items Without Barcodes](#items-without-barcodes)
+  - [5. Payment](#5-payment)
+    - [Payment Options](#payment-options)
+    - [Payment Process](#payment-process)
+  - [6. Troubleshooting](#6-troubleshooting)
+    - [Common Issues and Solutions](#common-issues-and-solutions)
+    - [Error Codes Reference](#error-codes-reference)
+  - [7. Tips and Best Practices](#7-tips-and-best-practices)
+    - [Speed and Efficiency](#speed-and-efficiency)
+    - [Safety and Security](#safety-and-security)
+    - [Common PLU Codes](#common-plu-codes)
+  - [Accessibility Guide](#accessibility-guide)
+    - [Visual Impairments](#visual-impairments)
+    - [Mobility Assistance](#mobility-assistance)
+    - [Hearing Impairments](#hearing-impairments)
 
 ## Quick Terms & Language Support
 
 ### Common Terms
+
 - PLU: Price Look-Up code (for produce and bulk items)
 - EAN: European Article Number (barcode standard)
 - VAT: Value Added Tax
@@ -61,6 +78,7 @@
 | Spain | Tarjeta, Cash | €0.05-0.20 per bag | 18+ alcohol | Mercadona, Carrefour |
 
 ## 1. Introduction
+
 ⏱️ Average shopping time: 10-15 minutes
 
 Self-checkout systems (also known as self-service checkouts) are widely used across European retailers. This guide will help you navigate the self-checkout process according to European retail standards and practices.
@@ -68,6 +86,7 @@ Self-checkout systems (also known as self-service checkouts) are widely used acr
 > **Important**: Always keep your receipt until leaving the store, as random checks are common in European retailers.
 
 ### Accessibility Features
+
 - Audio guidance (press help button twice)
 - Adjustable screen height
 - Large text option
@@ -76,11 +95,13 @@ Self-checkout systems (also known as self-service checkouts) are widely used acr
 - Extended reach scanners available
 
 ## 2. Getting Started
+
 ⏱️ Setup time: 30-60 seconds
 
 ### System Activation
 
 **Step 1: Language Selection**
+
 - Locate the language icons on the welcome screen
 - Tap your preferred language
 - Confirm selection
@@ -88,6 +109,7 @@ Self-checkout systems (also known as self-service checkouts) are widely used acr
 > **Note**: The system remembers your language choice for the entire transaction
 
 **Step 2: Loyalty Card (Optional)**
+
 - Scan loyalty card barcode
 - Or enter loyalty number manually
 - Wait for confirmation beep
@@ -95,12 +117,14 @@ Self-checkout systems (also known as self-service checkouts) are widely used acr
 ### Preparing Your Bags
 
 **Step 1: Bag Selection**
+
 - Choose between:
   - Store bags (subject to local pricing)
   - Personal reusable bags
   - No bags (small purchases)
 
 **Step 2: Bag Setup**
+
 - Place bags in designated area
 - Wait for weight calibration
 - Follow on-screen prompts
@@ -108,11 +132,13 @@ Self-checkout systems (also known as self-service checkouts) are widely used acr
 > **Important**: Some stores require bag purchase verification before proceeding
 
 ## 3. Scanning Items
+
 ⏱️ Average time per item: 3-5 seconds
 
 ### Standard Items
 
 **Step 1: Barcode Scanning**
+
 - Hold item with barcode facing scanner
 - Wait for confirmation beep
 - Place item in bagging area immediately
@@ -120,19 +146,23 @@ Self-checkout systems (also known as self-service checkouts) are widely used acr
 > **Tip**: Look for the red scanning light and align barcode with it
 
 **Step 2: Weight Verification**
+
 - Wait for weight confirmation
 - Follow on-screen prompts if there's an issue
 - Continue with next item
 
 ### Produce and Bulk Items
+
 ⏱️ Average time: 15-30 seconds per item
 
 **Step 1: Item Selection**
+
 - Press 'Produce' or 'Bulk Items' button
 - Search by name or scroll through categories
 - Select specific item
 
 **Step 2: Weighing Process**
+
 - Place item on scale
 - Verify weight and price
 - Confirm selection
@@ -141,9 +171,11 @@ Self-checkout systems (also known as self-service checkouts) are widely used acr
 ## 4. Special Situations
 
 ### Age-Restricted Items
+
 ⏱️ Additional time: 1-2 minutes for verification
 
 **Common Age-Restricted Items**
+
 - Alcohol
 - Tobacco
 - Energy drinks (16+ in some countries)
@@ -151,36 +183,43 @@ Self-checkout systems (also known as self-service checkouts) are widely used acr
 - Sharp objects
 
 **Verification Process**
+
 1. Scan item normally
 2. Wait for staff member
 3. Present valid ID
 4. Wait for approval
 
 ### Items Without Barcodes
+
 ⏱️ Additional time: 30-60 seconds
 
 **Step 1: Manual Entry**
+
 - Select 'No Barcode' option
 - Search for item by name
 - Enter quantity if needed
 
 **Step 2: Price Verification**
+
 - Check displayed price
 - Confirm amount
 - Place item in bagging area
 
 ## 5. Payment
+
 ⏱️ Average time: 1-2 minutes
 
 ### Payment Options
 
 **Electronic Payments**
+
 - Contactless (limits vary by country)
 - Chip and PIN
 - Mobile payments (Apple Pay, Google Pay)
 - Country-specific systems
 
 **Other Methods**
+
 - Cash (where available)
 - Store gift cards
 - Loyalty points
@@ -189,11 +228,13 @@ Self-checkout systems (also known as self-service checkouts) are widely used acr
 ### Payment Process
 
 **Step 1: Payment Initiation**
+
 1. Select 'Pay Now'
 2. Choose payment method
 3. Follow on-screen instructions
 
 **Step 2: Completion**
+
 1. Wait for confirmation
 2. Collect receipt
 3. Take all items
@@ -223,12 +264,14 @@ Self-checkout systems (also known as self-service checkouts) are widely used acr
 ## 7. Tips and Best Practices
 
 ### Speed and Efficiency
+
 - Group similar items together
 - Have payment method ready
 - Keep loyalty card accessible
 - Know your PLU codes for common produce
 
 ### Safety and Security
+
 - Keep personal belongings secure
 - Shield PIN entry
 - Be aware of surroundings
@@ -246,18 +289,21 @@ Self-checkout systems (also known as self-service checkouts) are widely used acr
 ## Accessibility Guide
 
 ### Visual Impairments
+
 - Activate audio guidance: Double press help button
 - Enable high contrast: Look for eye icon
 - Increase text size: Use A+ button
 - Voice commands available in selected stores
 
 ### Mobility Assistance
+
 - Request mobile scanning device
 - Ask for seated checkout option
 - Use extended reach scanner
 - Mobile payment terminal available
 
 ### Hearing Impairments
+
 - Visual confirmation for all actions
 - Vibration feedback available
 - Clear error messages on screen
@@ -266,6 +312,7 @@ Self-checkout systems (also known as self-service checkouts) are widely used acr
 ---
 
 > **Final Tips**:
+>
 > - Keep loyalty card ready
 > - Group similar items together
 > - Have payment method prepared
